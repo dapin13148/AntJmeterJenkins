@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="2041" it="0" lt="0" ct="2040" ts="1568734056321" s="false" lb="jiexinchakan" rc="Non HTTP response code: org.apache.http.conn.HttpHostConnectException" rm="Non HTTP response message: Connect to localhost:9999 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect" tn="Thread Group 1-1" dt="text" by="2835" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /角色详细信息/</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://localhost:9999/system_admin/role/roleView.jsp</java.net.URL>
+</httpSample>
+
+<httpSample t="2228" it="0" lt="0" ct="2227" ts="1568734509277" s="false" lb="jiexinchakan" rc="Non HTTP response code: org.apache.http.conn.HttpHostConnectException" rm="Non HTTP response message: Connect to localhost:9999 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect" tn="Thread Group 1-1" dt="text" by="2835" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /角色详细信息/</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://localhost:9999/system_admin/role/roleView.jsp</java.net.URL>
+</httpSample>
+
+</testResults>
