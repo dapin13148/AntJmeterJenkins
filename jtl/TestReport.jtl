@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="212" it="0" lt="212" ct="153" ts="1568816357766" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2781" sby="117" ng="1" na="1">
+  <java.net.URL>http://www.baidu.com/</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="44" ts="1568816358006" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2781" sby="138" ng="1" na="1">
+  <java.net.URL>http://www.baidu.com/</java.net.URL>
+</httpSample>
+<httpSample t="78" it="0" lt="78" ct="39" ts="1568816358095" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2781" sby="138" ng="2" na="2">
+  <java.net.URL>http://www.baidu.com/</java.net.URL>
+</httpSample>
+<httpSample t="75" it="0" lt="75" ct="37" ts="1568816358153" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2781" sby="117" ng="2" na="2">
+  <java.net.URL>http://www.baidu.com/</java.net.URL>
+</httpSample>
+<httpSample t="73" it="0" lt="73" ct="35" ts="1568816358175" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2781" sby="138" ng="2" na="2">
+  <java.net.URL>http://www.baidu.com/</java.net.URL>
+</httpSample>
+<httpSample t="73" it="0" lt="73" ct="35" ts="1568816358235" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2781" sby="138" ng="2" na="2">
+  <java.net.URL>http://www.baidu.com/</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="85" ct="41" ts="1568816358250" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2781" sby="138" ng="2" na="2">
+  <java.net.URL>http://www.baidu.com/</java.net.URL>
+</httpSample>
+<httpSample t="75" it="0" lt="75" ct="37" ts="1568816358310" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2781" sby="138" ng="1" na="1">
+  <java.net.URL>http://www.baidu.com/</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="85" ct="41" ts="1568816358387" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2781" sby="138" ng="1" na="1">
+  <java.net.URL>http://www.baidu.com/</java.net.URL>
+</httpSample>
+<httpSample t="75" it="0" lt="75" ct="36" ts="1568816358473" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2781" sby="138" ng="1" na="1">
+  <java.net.URL>http://www.baidu.com/</java.net.URL>
+</httpSample>
+
+</testResults>
